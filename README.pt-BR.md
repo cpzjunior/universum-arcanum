@@ -28,55 +28,53 @@ A história é organizada em quatro eras: a Era Primordial, marcada pelos aconte
 
 O conhecimento sobre Universum Arcanum está sujeito às evidências e interpretações disponíveis em cada época. Registros podem apresentar lacunas, tradições podem divergir e teorias podem ser revistas. A realidade do universo não se confunde com aquilo que seus habitantes conhecem ou acreditam conhecer. Essa distinção permite que o próprio acervo revele diferentes perspectivas sobre os mesmos acontecimentos e fenômenos, sem exigir uma narrativa única ou definitiva.
 
-## Opera Canonica - Obras Canônicas
+## Opera Canonica (Obras Canônicas)
 
 Reúnem os documentos que estabelecem as referências fundamentais do Universum Arcanum. Abrangem sua cosmologia, princípios, história, geografia, entidades e demais elementos estruturantes, servindo como base para a continuidade e a consistência do cenário.
 
-### Codex Existentiae - O Códice da Existência
+### Codex Existentiae (Códice da Existência)
 
 Concebido e redigido pelo Arquimago Asterion Valerius ao longo de mais de seis décadas, e concluído no ano de 1381 da Quarta Era, o Codex Existentiae constitui o mais vasto e meticuloso tratado já consagrado ao estudo da Existência no Universum Arcanum. Dividido em quatro livros, cada qual dedicado a um dos pilares fundamentais da realidade, a obra discorre sobre a origem e a natureza da criação, os princípios e as leis que regem a magia, a constituição e a geografia dos reinos, bem como os registros dos acontecimentos que marcaram as eras. Sua composição não se limita à reunião do saber conhecido: pretende estabelecer uma compreensão ordenada do próprio Universo, de suas origens, de suas leis imutáveis e dos mistérios que permanecem além do entendimento dos mortais.
 
-- I. De Natura Existentiae - Tratado sobre a Natureza da Existência: Logos e a natureza da Existência; essência e manifestação; cosmologia e estrutura dos Dominium; classificação dos Dominium; Arquétipos Primordiais e suas interpretações; Arqueísmo e Uniteísmo; natureza, origem e classificação das entidades imortais; princípios fundamentais que sustentam Arcania. (trabalho em andamento)
+- I. De Natura Existentiae (Sobre a Natureza da Existência): Logos e a natureza da Existência; essência e manifestação; cosmologia e estrutura dos Dominium; classificação dos Dominium; Arquétipos Primordiais e suas interpretações; Arqueísmo e Uniteísmo; natureza, origem e classificação das entidades imortais; princípios fundamentais que sustentam Arcania. (trabalho em andamento)
 
-- II. De Origine Creationis - Tratado sobre a Origem da Criação: origem da Criação; acontecimentos da Era Primordial; Grande Cisma; principais interpretações sobre a origem de todas as coisas; fundamentos das diferentes concepções sobre a Criação e sua relação com a Existência. (trabalho em andamento)
+- II. De Origine Creationis (Sobre a Origem da Criação): origem da Criação; acontecimentos da Era Primordial; Grande Cisma; principais interpretações sobre a origem de todas as coisas; fundamentos das diferentes concepções sobre a Criação e sua relação com a Existência. (trabalho em andamento)
 
-- III. Ars Magica - Tratado sobre a Arte da Magia: natureza e origem da magia; Harmonia, Transformação, Causalidade, Liberdade Responsável e Chama Interior; aptidão mágica e suas manifestações; fundamentos teóricos e leis arcanas; disciplinas e escolas de magia; métodos de aprendizado e transmissão do conhecimento; técnicas, feitiços e encantamentos; rituais e cerimônias; instrumentos e artefatos mágicos; custos, riscos, limitações e consequências do uso da magia; afinidades e incompatibilidades arcanas; influência do ambiente sobre a prática mágica; resíduos arcanos e alterações provocadas pela magia; Duelos Ritualizados e seus contratos; tradições, métodos e divergências entre praticantes. (trabalho em andamento)
+- III. Ars Magica (A Arte da Magia): natureza e origem da magia; Harmonia, Transformação, Causalidade, Liberdade Responsável e Chama Interior; aptidão mágica e suas manifestações; fundamentos teóricos e leis arcanas; disciplinas e escolas de magia; métodos de aprendizado e transmissão do conhecimento; técnicas, feitiços e encantamentos; rituais e cerimônias; instrumentos e artefatos mágicos; custos, riscos, limitações e consequências do uso da magia; afinidades e incompatibilidades arcanas; influência do ambiente sobre a prática mágica; resíduos arcanos e alterações provocadas pela magia; Duelos Ritualizados e seus contratos; tradições, métodos e divergências entre praticantes. (trabalho em andamento)
 
-- IV. De Societate Arcana - Tratado sobre a Sociedade Arcana: origem e desenvolvimento da sociedade arcana; organização política, social e institucional; Escolas e Famílias Arcanas; ordens, linhagens e tradições mágicas; estruturas de poder e autoridade; hierarquias, cargos e funções; instituições de ensino e transmissão do conhecimento; relações entre organizações arcanas; responsabilidades, direitos e deveres dos praticantes; costumes, códigos de conduta e tradições da comunidade mágica. (trabalho em andamento)
+- IV. De Societate Arcana (Sobre a Sociedade Arcana): origem e desenvolvimento da sociedade arcana; organização política, social e institucional; Escolas e Famílias Arcanas; ordens, linhagens e tradições mágicas; estruturas de poder e autoridade; hierarquias, cargos e funções; instituições de ensino e transmissão do conhecimento; relações entre organizações arcanas; responsabilidades, direitos e deveres dos praticantes; costumes, códigos de conduta e tradições da comunidade mágica. (trabalho em andamento)
 
-## Obras Complementares
+## Opera Complementaria (Obras Complementares)
 
 Reúnem documentos que aprofundam aspectos específicos do universo, ampliam seu contexto e apresentam perspectivas particulares. Incluem estudos, relatos, correspondências, crônicas e registros que enriquecem o acervo, sem necessariamente representar conhecimento consolidado ou consensual.
 
-### Manuais e Tratados
+### Manualia et Tractatus (Manuais e Tratados)
 
-- I. Ars Scribendi - A Arte da Escrita: caligrafia, composição textual, gramática, retórica, estilos literários, estrutura de documentos, correspondência formal, manuscritos, registros acadêmicos e convenções da escrita erudita arcana. (trabalho em andamento)
-    
-- II. Manuale Artificiorum - Manual dos Ofícios: técnicas, ferramentas, materiais e práticas de diferentes ofícios, incluindo forja, carpintaria, construção, artesanato e outras atividades profissionais. (trabalho em andamento)
-    
-- III. Manuale Adventoris - Manual do Aventureiro: sobrevivência, exploração, orientação, rastreamento, preparação de expedições, primeiros socorros e experiências práticas de viajantes e aventureiros. (trabalho em andamento)
-    
-- IV. De Arte Alchimiae - Sobre a Arte da Alquimia: reagentes, preparados, poções, procedimentos, instrumentos, fórmulas conhecidas e experiências alquímicas. (trabalho em andamento)
-    
+- Ars Scribendi (A Arte da Escrita): caligrafia, composição textual, gramática, retórica, estilos literários, estrutura de documentos, correspondência formal, manuscritos, registros acadêmicos e convenções da escrita erudita arcana. (trabalho em andamento)
 
-### Compêndios e Catálogos
+- Manuale Artificiorum (Manual dos Ofícios): técnicas, ferramentas, materiais e práticas de diferentes ofícios, incluindo forja, carpintaria, construção, artesanato e outras atividades profissionais. (trabalho em andamento)
 
-- V. Bestiarium Arcaniae - Bestiário de Arcania: descrições, hábitos, habitats, comportamentos, características e relatos de encontros com criaturas conhecidas pelo autor ou por suas fontes. (trabalho em andamento)
-    
-- VI. Herbarium Arcaniae - Herbário de Arcania: identificação, características, habitats e usos conhecidos de plantas, ervas e fungos, incluindo aplicações medicinais, alquímicas e arcanas. (trabalho em andamento)
-    
-- VII. Codex Artificiorum - Códice dos Artefatos: registros e descrições de objetos, instrumentos, armas, relíquias e mecanismos de interesse histórico, artesanal ou mágico. (trabalho em andamento)
-    
+- Manuale Adventoris (Manual do Aventureiro): sobrevivência, exploração, orientação, rastreamento, preparação de expedições, primeiros socorros e experiências práticas de viajantes e aventureiros. (trabalho em andamento)
 
-### Obras Narrativas
+- De Arte Alchimiae (Sobre a Arte da Alquimia): reagentes, preparados, poções, procedimentos, instrumentos, fórmulas conhecidas e experiências alquímicas. (trabalho em andamento)
 
-- VIII. Fabulae Arcaniae - Contos de Arcania: coletâneas de histórias ficcionais ou inspiradas em acontecimentos, personagens e experiências do cotidiano de Arcania. (trabalho em andamento)
-    
-- IX. Legendae Arcaniae - Lendas de Arcania: narrativas tradicionais, lendas regionais, heróis populares, criaturas lendárias e histórias transmitidas entre gerações. (trabalho em andamento)
-    
-- X. Chronicae Minoris - Pequenas Crônicas: relatos de acontecimentos locais, episódios históricos, disputas, descobertas, viagens e experiências pessoais registrados por seus autores. (trabalho em andamento)
-    
-- XI. Itineraria Arcaniae - Jornadas por Arcania: diários de viagem, relatos de exploração e descrições de lugares, povos, costumes e experiências vividas por viajantes. (trabalho em andamento)
+### Compendia et Catalogi (Compêndios e Catálogos)
+
+- Bestiarium Arcaniae (Bestiário de Arcania): descrições, hábitos, habitats, comportamentos, características e relatos de encontros com criaturas conhecidas pelo autor ou por suas fontes. (trabalho em andamento)
+
+- Herbarium Arcaniae (Herbário de Arcania): identificação, características, habitats e usos conhecidos de plantas, ervas e fungos, incluindo aplicações medicinais, alquímicas e arcanas. (trabalho em andamento)
+
+- Codex Artificiorum (Códice dos Artefatos): registros e descrições de objetos, instrumentos, armas, relíquias e mecanismos de interesse histórico, artesanal ou mágico. (trabalho em andamento)
+
+### Opera Narrativa (Obras Narrativas)
+
+- Fabulae Arcaniae (Contos de Arcania): coletâneas de histórias ficcionais ou inspiradas em acontecimentos, personagens e experiências do cotidiano de Arcania. (trabalho em andamento)
+
+- Legendae Arcaniae (Lendas de Arcania): narrativas tradicionais, lendas regionais, heróis populares, criaturas lendárias e histórias transmitidas entre gerações. (trabalho em andamento)
+
+- Chronicae Minoris (Pequenas Crônicas): relatos de acontecimentos locais, episódios históricos, disputas, descobertas, viagens e experiências pessoais registrados por seus autores. (trabalho em andamento)
+
+- Itineraria Arcaniae (Jornadas por Arcania): diários de viagem, relatos de exploração e descrições de lugares, povos, costumes e experiências vividas por viajantes.
 
 ## Idiomas
 
