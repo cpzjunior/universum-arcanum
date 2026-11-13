@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Escrito por Asterion Valerius, o Intérprete do Logos, Arquimago Emérito da Ordem Arcana de Aurelion, Mestre da Alta Doutrina Arcana, Preceptor de Arquimagos e Portador do Selo de Aurelion, no ano de 1372 da Quarta Era, durante a revisão final do _Tratado sobre a Existência_, Quinta Edição.
+Escrito por Asterion Valerius, o Intérprete do Logos, Arquimago Emérito da Ordem Arcana de Aurelion, Mestre da Alta Doutrina Arcana, Preceptor de Arquimagos e Portador do Selo de Aurelion, no ano de 1380 da Quarta Era, durante a revisão final do _Tratado sobre a Existência_, Quinta Edição.
 
 Ao concluir a revisão deste tratado, percebo que dediquei a ele mais anos do que muitos homens dedicam à própria vida. Não considero esse fato digno de elogio, mas consequência natural da responsabilidade de transmitir conhecimento recebido daqueles que me antecederam. Um tratado destinado à formação de novos estudiosos não pode ser escrito apenas para registrar aquilo que seu autor aprendeu. Deve também preservar as distinções estabelecidas pelas gerações anteriores, indicar onde permanecem controvérsias e separar aquilo que foi demonstrado daquilo que ainda pertence ao domínio da interpretação.
 
