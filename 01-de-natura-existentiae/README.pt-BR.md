@@ -1,6 +1,4 @@
-# I. De Natura Existentiae
-
-_Tratado sobre a Natureza da Existência_
+# I. De Natura Existentiae - Tratado sobre a Natureza da Existência
 
 ## Introdução
 
