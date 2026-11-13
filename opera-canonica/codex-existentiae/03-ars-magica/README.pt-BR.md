@@ -1,4 +1,6 @@
-# 1. Da Natureza da Mana
+# III. Ars Magica (A Arte da Magia)
+
+## 1. Da Natureza da Mana
 
 Entre todas as descobertas realizadas durante a Era dos Magos, poucas transformaram tão profundamente a compreensão da realidade quanto o estudo da mana.
 
@@ -14,7 +16,7 @@ A mana não é uma força uniforme.
 
 Ela manifesta diferentes naturezas, e cada alma nasce em harmonia com apenas uma parte dessa diversidade.
 
-## 1.1. Das Afinidades da Mana
+### 1.1. Das Afinidades da Mana
 
 Assim como o sangue apresenta diferentes características entre os seres vivos sem deixar de possuir a mesma origem fundamental, a mana apresenta diferentes manifestações sem deixar de ser a mesma força primordial.
 
@@ -26,7 +28,7 @@ Por essa razão, os antigos mestres ensinavam que nenhum mago fracassa apenas po
 
 Conhecer a própria afinidade, portanto, tornou-se o primeiro passo para compreender a própria magia.
 
-## 1.2. Da Compatibilidade
+### 1.2. Da Compatibilidade
 
 A compatibilidade constitui um dos princípios fundamentais da prática arcana.
 
@@ -40,7 +42,7 @@ Por esse motivo, as grandes escolas arcanas passaram a ensinar que nenhum discí
 
 A verdadeira maestria começa pelo autoconhecimento.
 
-## 1.3. Da Rejeição Mágica
+### 1.3. Da Rejeição Mágica
 
 Quando a incompatibilidade entre a alma e a mana ultrapassa os limites suportáveis, ocorre aquilo que os tratados antigos denominam Rejeição Mágica.
 
@@ -56,7 +58,7 @@ Não é a mana que destrói o conjurador.
 
 É a tentativa de obrigar a alma a ressoar com aquilo que não lhe pertence.
 
-## 1.4. Das Fontes e Reservatórios de Mana
+### 1.4. Das Fontes e Reservatórios de Mana
 
 A descoberta das afinidades transformou profundamente a organização da sociedade arcana.
 
@@ -70,7 +72,7 @@ Não basta possuir grandes quantidades de energia.
 
 Assim, o comércio de mana tornou-se uma das atividades mais estratégicas da Era dos Magos. Cidades inteiras prosperaram por controlar fontes raras, enquanto outras entraram em declínio por dependerem de reservas incompatíveis com suas principais tradições arcanas.
 
-## 1.5. Das Consequências Sociais
+### 1.5. Das Consequências Sociais
 
 O estudo da afinidade da mana ultrapassou rapidamente os limites da teoria mágica e transformou diversos aspectos da sociedade.
 
@@ -82,7 +84,7 @@ Alguns governantes chegaram a disputar territórios não por suas riquezas mater
 
 Dessa forma, aquilo que inicialmente parecia uma descoberta puramente acadêmica tornou-se um dos fundamentos da política, da economia e da própria organização das cidades mágicas.
 
-## 1.6. Dos Harmonizadores Universais
+### 1.6. Dos Harmonizadores Universais
 
 Entre todos os fenômenos conhecidos pelos estudiosos da mana, poucos permanecem tão raros quanto aqueles capazes de estabelecer ressonância com múltiplas manifestações da energia arcana.
 
@@ -100,7 +102,7 @@ Por essa razão, antigos tratados afirmam que os Harmonizadores Universais raram
 
 Não porque possuam necessariamente maior poder, mas porque carregam uma relação com a Harmonia que poucos seres conseguem compreender.
 
-## 1.7. Considerações Finais
+### 1.7. Considerações Finais
 
 O estudo da mana revelou aos estudiosos uma verdade fundamental: o poder mágico não depende apenas da quantidade de energia disponível, mas da relação entre o conjurador e a força que procura dominar.
 
@@ -117,7 +119,7 @@ Consiste em compreender a natureza daquela que responde à própria essência.
 Pois, antes de dominar a Harmonia, todo mago deve primeiro descobrir qual parte dela já existe dentro de si.
 
 
-# 2. Da Stamina
+## 2. Da Stamina
 
 Entre os primeiros estudantes das academias arcanas, difundiu-se durante séculos a crença de que o maior limite de um mago era a quantidade de mana que possuía. Essa compreensão, embora parcialmente correta, revelou-se incompleta quando os estudiosos passaram a observar que conjuradores igualmente abastecidos com energia mágica apresentavam desempenhos profundamente diferentes.
 
@@ -127,7 +129,7 @@ Assim, os mestres das escolas arcanas passaram a reconhecer três fundamentos in
 
 A ausência de qualquer desses elementos torna a magia impossível. Um mago pode possuir reservas abundantes de mana e, ainda assim, ser incapaz de realizar uma única conjuração caso seu corpo e sua mente já não possuam condições de conduzi-la.
 
-## 2.1. Da Fadiga Arcana
+### 2.1. Da Fadiga Arcana
 
 Toda conjuração estabelece uma ligação entre a vontade do mago e a Harmonia da Existência. Contudo, essa ligação não é sustentada apenas pela energia mágica empregada. Ela depende igualmente da estabilidade do corpo, da mente e da própria alma do conjurador.
 
@@ -137,7 +139,7 @@ Nos casos extremos, um mago pode permanecer incapaz de conjurar mesmo possuindo 
 
 Por essa razão, muitos mestres afirmam que um mago raramente é derrotado quando sua mana se esgota. A derrota ocorre quando seu corpo, sua mente ou sua vontade deixam de sustentar o peso da própria magia.
 
-## 2.2. Das Poções de Stamina
+### 2.2. Das Poções de Stamina
 
 Desde os primeiros séculos da Era dos Magos, alquimistas buscaram formas de prolongar o desempenho dos conjuradores durante situações de grande exigência. Dessa pesquisa surgiram as chamadas Poções de Stamina, amplamente utilizadas por aventureiros, soldados e magos em circunstâncias excepcionais.
 
@@ -155,7 +157,7 @@ Assim, a poção não elimina o cansaço.
 
 Apenas transfere sua manifestação para um momento posterior.
 
-## 2.3. Do Efeito Reverso
+### 2.3. Do Efeito Reverso
 
 Toda energia ocultada exige, em algum momento, ser reconhecida pelo organismo. Quando os efeitos da poção cessam, o corpo procura recuperar rapidamente aquilo que foi exigido durante o período de supressão.
 
@@ -169,7 +171,7 @@ Por essa razão, as escolas tradicionais preservam uma antiga máxima:
 
 A stamina emprestada jamais deixa de ser cobrada.
 
-## 2.4. Da Dependência do Vigor Artificial
+### 2.4. Da Dependência do Vigor Artificial
 
 Os registros das academias preservam inúmeros relatos de conjuradores que passaram a depender excessivamente das poções de stamina. Com o tempo, muitos perderam a capacidade de reconhecer adequadamente os próprios limites, prolongando seus esforços muito além daquilo que seus corpos poderiam suportar.
 
@@ -181,7 +183,7 @@ A disciplina não nasce da ausência de limites.
 
 Nasce do domínio sobre eles.
 
-## 2.5. Do Verdadeiro Vigor
+### 2.5. Do Verdadeiro Vigor
 
 Os antigos Arquimagos ensinavam que a stamina não pode ser substituída.
 
@@ -193,7 +195,7 @@ Os maiores conjuradores da história não foram aqueles capazes de lançar a mai
 
 Foram aqueles capazes de permanecer lançando magia durante toda uma vida.
 
-## 2.6. Do Corpo como Instrumento da Magia
+### 2.6. Do Corpo como Instrumento da Magia
 
 Durante muito tempo, os povos leigos imaginaram os grandes magos como estudiosos frágeis, distantes dos esforços físicos e consumidos exclusivamente pelo estudo dos grimórios.
 
@@ -213,7 +215,7 @@ O treinamento físico, portanto, nunca foi considerado separado da formação ar
 
 É parte dela.
 
-## 2.7. Da Robustez dos Grandes Arquimagos
+### 2.7. Da Robustez dos Grandes Arquimagos
 
 Os registros históricos revelam um aspecto frequentemente ignorado pelos cronistas comuns: muitos dos Arquimagos considerados mais poderosos de suas épocas possuíam uma constituição física notavelmente vigorosa.
 
@@ -227,7 +229,7 @@ Por essa razão, muitos mestres afirmam que o verdadeiro campo de batalha de um 
 
 Seu corpo deve ser capaz de sobreviver ao poder que sua mente pretende invocar.
 
-## 2.8. Da Disciplina Integral
+### 2.8. Da Disciplina Integral
 
 As academias mais antigas preservam um princípio que frequentemente surpreende os iniciantes: não existe grande magia em um corpo incapaz de sustentá-la.
 
@@ -239,7 +241,7 @@ Um discípulo que fortalece apenas o corpo torna-se um guerreiro.
 
 Somente aquele que disciplina ambos pode aspirar à Arquimagia.
 
-## 2.9. Dos Limites da Mana e do Corpo
+### 2.9. Dos Limites da Mana e do Corpo
 
 Os iniciantes frequentemente confundem a exaustão da mana com a exaustão da stamina. Embora possam ocorrer simultaneamente, tratam-se de fenômenos distintos.
 
@@ -255,7 +257,7 @@ Seu limite não estava na fonte de poder.
 
 Estava no instrumento que tentava conduzi-la.
 
-## 2.10. Considerações Finais
+### 2.10. Considerações Finais
 
 A distinção entre mana e stamina alterou profundamente a compreensão da prática arcana e transformou a forma como os magos passaram a estudar seus próprios limites.
 
@@ -271,7 +273,7 @@ Mas é o corpo que sustenta o mago enquanto ele a invoca.
 
 E nenhum corpo, por mais disciplinado que seja, pode ignorar indefinidamente o preço do próprio esforço.
 
-# 3. Da Vontade Arcana
+## 3. Da Vontade Arcana
 
 Entre os povos comuns, é frequente a afirmação de que toda grande realização depende de força de vontade. Os mestres das academias arcanas raramente discordam dessa ideia, mas acrescentam que essa compreensão representa apenas o primeiro passo para entender a verdadeira natureza da vontade.
 
@@ -291,7 +293,7 @@ A stamina permite que o mago suporte o esforço.
 
 A Vontade Arcana determina aquilo que deve acontecer.
 
-## 3.1. Da Vontade Comum
+### 3.1. Da Vontade Comum
 
 Todo ser consciente possui vontade. Ela orienta escolhas, conduz ações e permite que indivíduos persigam objetivos mesmo diante de obstáculos.
 
@@ -307,7 +309,7 @@ A vontade de um indivíduo pode transformar suas próprias ações.
 
 A Vontade Arcana permite transformar sua relação com o mundo.
 
-## 3.2. Do Despertar da Vontade Arcana
+### 3.2. Do Despertar da Vontade Arcana
 
 Os primeiros Arquimagos compreenderam que determinados indivíduos eram capazes de alcançar uma forma diferente de interação com a criação.
 
@@ -327,7 +329,7 @@ Por essa razão, um feitiço não é apenas uma manifestação de poder.
 
 Um mago não produz uma chama apenas porque possui energia suficiente para fazê-lo. Ele compreende o princípio da chama, estabelece uma intenção e conduz a Harmonia para que essa possibilidade se manifeste através dele.
 
-## 3.3. Da Clareza da Intenção
+### 3.3. Da Clareza da Intenção
 
 Os aprendizes frequentemente confundem intensidade emocional com poder mágico. Essa interpretação, contudo, é considerada um dos primeiros equívocos corrigidos pelas escolas arcanas.
 
@@ -345,7 +347,7 @@ A magia não responde ao maior tumulto da mente.
 
 Responde à maior harmonia da vontade.
 
-## 3.4. Da Compreensão como Parte da Vontade
+### 3.4. Da Compreensão como Parte da Vontade
 
 Durante séculos, algumas escolas defenderam que a verdadeira força de um mago estava exclusivamente na intensidade de sua determinação. Essa interpretação foi posteriormente considerada insuficiente pelos mestres das tradições modernas.
 
@@ -361,7 +363,7 @@ Um grande mago não impõe sua vontade sobre aquilo que desconhece.
 
 Ele estabelece uma relação com aquilo que busca transformar.
 
-## 3.5. Da Autoridade sobre Si Mesmo
+### 3.5. Da Autoridade sobre Si Mesmo
 
 Os mestres das antigas academias ensinam que ninguém pode exercer verdadeira influência sobre a Harmonia sem antes aprender a governar a própria existência.
 
@@ -375,7 +377,7 @@ A realidade responde melhor àqueles cuja vontade possui direção e propósito 
 
 O domínio da magia começa pelo domínio de si mesmo.
 
-## 3.6. Da Vontade e dos Arquétipos
+### 3.6. Da Vontade e dos Arquétipos
 
 Para os Arqueístas, a Vontade Arcana nasce da aproximação entre o mago e os arquétipos que compõem a Harmonia.
 
@@ -391,7 +393,7 @@ Representa consonância com ela.
 
 O maior mago não é aquele que força a Harmonia a obedecê-lo, mas aquele que compreende tão profundamente uma parte dela que sua própria vontade passa a mover-se em conjunto com esse princípio.
 
-## 3.7. Da Vontade segundo os Filhos do Criador
+### 3.7. Da Vontade segundo os Filhos do Criador
 
 Os Filhos do Criador oferecem uma interpretação distinta da Vontade Arcana.
 
@@ -405,7 +407,7 @@ A vontade concede poder.
 
 Mas também concede dever.
 
-## 3.8. Da Vontade dos Arquimagos
+### 3.8. Da Vontade dos Arquimagos
 
 Os cronistas frequentemente atribuem as maiores conquistas dos Arquimagos à quantidade de mana que possuíam. Os próprios mestres das grandes escolas raramente compartilham dessa interpretação.
 
@@ -425,7 +427,7 @@ A diferença entre um grande conjurador e um verdadeiro mestre frequentemente n�
 
 Está na capacidade de conduzi-lo até o fim.
 
-## 3.9. Da Verdadeira Fonte da Arquimagia
+### 3.9. Da Verdadeira Fonte da Arquimagia
 
 Quando um aprendiz pergunta qual é o segredo para alcançar a Arquimagia, frequentemente espera ouvir sobre grimórios esquecidos, relíquias antigas ou reservas extraordinárias de mana.
 
@@ -445,7 +447,7 @@ Ela precisa ser construída através da experiência, testada diante das dificul
 
 Talvez seja por isso que existam incontáveis estudiosos da magia, mas tão poucos capazes de alcançar a verdadeira Arquimagia.
 
-# 6. Da Memória e do Legado Arcano
+## 6. Da Memória e do Legado Arcano
 
 A magia não desaparece quando o conjurador deixa de existir.
 
@@ -457,7 +459,7 @@ Outras permanecem por séculos.
 
 Assim nasceu o conceito de Memória Arcana.
 
-## 6.1. Da Assinatura Arcana
+### 6.1. Da Assinatura Arcana
 
 Todo ser capaz de manipular a magia deixa uma impressão única na Harmonia.
 
@@ -477,7 +479,7 @@ o estado emocional do conjurador;
 o nível de domínio;
 e, em alguns casos, a identidade exata daquele que lançou o feitiço.
 
-## 6.2. Da Investigação Arcana
+### 6.2. Da Investigação Arcana
 
 O estudo das assinaturas mágicas transformou completamente a sociedade da Era dos Magos.
 
@@ -499,7 +501,7 @@ Ela é uma interpretação.
 
 Assim como uma lembrança mortal pode ser incompleta, os vestígios arcanos também podem ser distorcidos pelo tempo, pelo ambiente e pela interferência de outros poderes.
 
-## 6.3. Dos Lugares de Poder
+### 6.3. Dos Lugares de Poder
 
 Alguns locais acumulam tantas manifestações mágicas ao longo dos séculos que deixam de ser simples lugares.
 
@@ -517,7 +519,7 @@ Todos esses lugares carregam camadas de acontecimentos passados.
 
 Muitos estudiosos acreditam que explorar um local antigo é uma forma de conversar com aqueles que vieram antes.
 
-## 6.4. Dos Grimórios e das Heranças de Conhecimento
+### 6.4. Dos Grimórios e das Heranças de Conhecimento
 
 O maior legado de um mago raramente é um feitiço.
 
@@ -531,7 +533,7 @@ Por isso, os grimórios mais valiosos não são necessariamente aqueles com os f
 
 São aqueles que carregam descobertas, dúvidas e interpretações capazes de mudar a compreensão de futuras gerações.
 
-## 6.5. Das Relíquias Arcanas
+### 6.5. Das Relíquias Arcanas
 
 As maiores relíquias não são objetos encantados.
 
@@ -547,7 +549,7 @@ Com o passar do tempo, esses objetos acumulam significado, e o significado possu
 
 Uma relíquia é poderosa porque representa algo.
 
-## 6.6. Do Legado dos Arquimagos
+### 6.6. Do Legado dos Arquimagos
 
 Os Arquimagos compreendem que sua verdadeira imortalidade não está em permanecer vivos.
 
@@ -561,7 +563,7 @@ Por isso, entre os Arquimagos existe uma antiga máxima:
 
 "O corpo termina. A vontade permanece. O legado transforma."
 
-# 7. Dos Nomes Verdadeiros
+## 7. Dos Nomes Verdadeiros
 
 Entre todos os conhecimentos preservados pelas escolas arcanas, poucos são tratados com tamanho sigilo quanto o estudo dos Nomes Verdadeiros.
 
@@ -589,7 +591,7 @@ Não descreve apenas sua identidade.
 
 Revela sua natureza.
 
-## 7.1. Da Origem dos Nomes
+### 7.1. Da Origem dos Nomes
 
 Os Arqueístas ensinam que toda criatura manifesta um arquétipo singular dentro da Harmonia.
 
@@ -607,7 +609,7 @@ O Nome Verdadeiro não é uma convenção.
 
 É uma propriedade da própria Existência.
 
-## 7.2. Do Poder dos Nomes
+### 7.2. Do Poder dos Nomes
 
 Conhecer o Nome Verdadeiro de uma criatura significa estabelecer com ela um vínculo que ultrapassa todas as formas ordinárias de magia.
 
@@ -625,7 +627,7 @@ Por essa razão, os mestres ensinam que o verdadeiro poder dos nomes não consis
 
 Consiste em alcançar sua essência.
 
-## 7.3. Do Sigilo
+### 7.3. Do Sigilo
 
 A primeira lição recebida por muitos aprendizes não diz respeito à mana, aos elementos ou aos rituais.
 
@@ -643,7 +645,7 @@ Há ainda ordens mais antigas que realizam complexos rituais destinados a oculta
 
 Nesses casos, o mago continua sendo aquilo que é, mas já não pode pronunciar sua própria essência.
 
-## 7.4. Da Descoberta dos Nomes
+### 7.4. Da Descoberta dos Nomes
 
 Os tratados concordam que não existe um método único para descobrir um Nome Verdadeiro.
 
@@ -657,7 +659,7 @@ Justamente por não existir um caminho seguro, o conhecimento dos Nomes Verdadei
 
 Muitos dedicam toda uma vida à busca de um único nome.
 
-## 7.5. Dos Falsos Nomes
+### 7.5. Dos Falsos Nomes
 
 Nem todo nome revelado é verdadeiro.
 
@@ -671,7 +673,7 @@ Mas nunca indefinidamente.
 
 Mais cedo ou mais tarde, a Harmonia distingue aquilo que apenas aparenta ser daquilo que realmente é.
 
-## 7.6. Considerações Finais
+### 7.6. Considerações Finais
 
 Os Nomes Verdadeiros lembram aos estudiosos que toda magia começa pelo conhecimento.
 
@@ -685,7 +687,7 @@ Talvez seja por isso que tantas escolas afirmem que o maior segredo jamais foi a
 
 Foi aprender a chamar cada coisa pelo nome que a própria Existência lhe concedeu.
 
-# 13. Das Artes Auxiliares e da Interiorização Arcana
+## 13. Das Artes Auxiliares e da Interiorização Arcana
 
 Desde os primeiros séculos da Era dos Magos, os grandes mestres compreenderam que a magia jamais poderia ser reduzida ao domínio da mana ou à força da vontade.
 
@@ -699,7 +701,7 @@ Essas artes não substituem a magia.
 
 Elas tornam possível compreendê-la em níveis mais profundos.
 
-## 13.1. Da Alquimia e da Natureza da Matéria
+### 13.1. Da Alquimia e da Natureza da Matéria
 
 Entre todas as disciplinas auxiliares, poucas possuem relação tão próxima com a magia quanto a alquimia.
 
@@ -727,7 +729,7 @@ Entretanto, os grandes alquimistas afirmam que sua arte não cria milagres.
 
 Ela apenas revela possibilidades que já existem na matéria.
 
-## 13.2. Do Herbalismo e dos Seres Vivos
+### 13.2. Do Herbalismo e dos Seres Vivos
 
 O estudo das plantas ocupa posição especial entre os estudiosos da Vida.
 
@@ -745,7 +747,7 @@ Ele compreende ciclos, ambientes e relações.
 
 Muitos dos maiores curadores da história foram também estudiosos das plantas, pois compreender a vida em sua forma mais simples era considerado um caminho para compreender formas mais complexas de existência.
 
-## 13.3. Da Anatomia e da Compreensão do Corpo
+### 13.3. Da Anatomia e da Compreensão do Corpo
 
 Durante muito tempo, alguns magos acreditaram que conhecer a magia da vida exigia apenas compreender energia vital.
 
@@ -764,7 +766,7 @@ a influência da mana sobre organismos vivos.
 
 Essa compreensão tornou-se essencial para curandeiros, criadores de criaturas mágicas e pesquisadores das fronteiras entre vida natural e vida arcana.
 
-## 13.4. Da Observação dos Astros
+### 13.4. Da Observação dos Astros
 
 Os antigos estudiosos observaram que os céus possuíam padrões que se repetiam através dos séculos.
 
@@ -776,7 +778,7 @@ As constelações são vistas como grandes imagens eternas gravadas no próprio 
 
 Alguns mestres afirmam que o Livro das Imagens Eternas, origem do sistema conhecido como Tarot, nada mais seria do que uma tentativa mortal de reproduzir em símbolos aquilo que os céus expressam em escala cósmica.
 
-## 13.5. Da Meditação e do Templo Interior
+### 13.5. Da Meditação e do Templo Interior
 
 Entre todas as artes auxiliares, nenhuma possui relação tão íntima com a Vontade Arcana quanto a interiorização.
 
@@ -830,7 +832,7 @@ Essas imagens não são criadas conscientemente pelo mago.
 
 Elas revelam a forma como sua alma compreende sua própria relação com a Harmonia.
 
-## 13.6. Considerações Finais
+### 13.6. Considerações Finais
 
 Os aprendizes frequentemente perguntam qual dessas disciplinas é a mais importante.
 
@@ -854,7 +856,7 @@ Pois o primeiro templo de todo mago não é uma torre, uma academia ou um santu�
 
 É a própria consciência.
 
-# 15. Das Limitações da Magia
+## 15. Das Limitações da Magia
 
 Entre todos os ensinamentos preservados pelas grandes academias arcanas, poucos foram recebidos com tanta resistência quanto aqueles referentes às limitações da magia.
 
@@ -878,7 +880,7 @@ Por essa razão, o conhecimento dos limites da magia não representa uma renúnc
 
 Representa o reconhecimento da própria Harmonia.
 
-## 15.1. Da Lei da Conservação Arcana
+### 15.1. Da Lei da Conservação Arcana
 
 A primeira limitação reconhecida pelos estudiosos é que nenhuma manifestação mágica surge sem consequência.
 
@@ -898,7 +900,7 @@ Por essa razão, os antigos mestres afirmavam:
 
 "A magia não concede milagres. Ela revela caminhos que possuem um preço."
 
-## 15.2. Da Limitação da Vontade
+### 15.2. Da Limitação da Vontade
 
 Muitos aprendizes acreditam que um mago suficientemente poderoso poderia realizar qualquer feito caso sua vontade fosse forte o bastante.
 
@@ -920,7 +922,7 @@ A verdadeira maestria não consiste em impor qualquer desejo à realidade.
 
 Consiste em compreender profundamente aquilo que a realidade permite.
 
-## 15.3. Da Mortalidade e da Natureza da Alma
+### 15.3. Da Mortalidade e da Natureza da Alma
 
 Entre todas as limitações estudadas pelos arcanos, nenhuma despertou maior obsessão do que a morte.
 
@@ -948,7 +950,7 @@ Pois a mortalidade não é apenas uma fraqueza.
 
 É parte daquilo que dá significado à existência.
 
-## 15.4. Dos Rituais de Continuidade
+### 15.4. Dos Rituais de Continuidade
 
 Uma das práticas mais controversas da história arcana foi a tentativa de preservar a própria essência através das gerações.
 
@@ -968,7 +970,7 @@ Ou apenas uma imitação extremamente perfeita?
 
 Essa questão permanece sem resposta definitiva.
 
-## 15.5. Dos Fragmentos da Alma
+### 15.5. Dos Fragmentos da Alma
 
 Entre as práticas mais condenadas pelas academias está aquela que busca dividir a essência de um ser consciente para prolongar sua permanência no mundo.
 
@@ -988,7 +990,7 @@ Mas por sua contradição.
 
 O praticante busca preservar a si mesmo destruindo aquilo que define quem ele é.
 
-## 15.6. Da Criação da Vida
+### 15.6. Da Criação da Vida
 
 Outra fronteira debatida pelos Arquimagos é a criação de vida.
 
@@ -1008,7 +1010,7 @@ Outros acreditam que os arquétipos da Vida e da Alma guardam segredos ainda des
 
 Até o momento, nenhuma escola conseguiu demonstrar uma verdadeira criação consciente através da magia.
 
-## 15.7. Da Ascensão aos Planos Superiores
+### 15.7. Da Ascensão aos Planos Superiores
 
 Mesmo os maiores Arquimagos possuem limites diante dos planos superiores da criação.
 
@@ -1028,7 +1030,7 @@ Ambas as tradições concordam em um ponto:
 
 Poder não significa igualdade.
 
-## 15.8. Da Ordem Arcana
+### 15.8. Da Ordem Arcana
 
 Apesar do orgulho que caracteriza muitos estudiosos da magia, as grandes academias preservam essas limitações não como correntes, mas como fundamentos.
 
@@ -1042,7 +1044,7 @@ Nenhum aprendiz poderia evoluir.
 
 A existência de limites permite que a magia seja uma ciência, uma arte e uma tradição.
 
-## 15.9. Considerações Finais
+### 15.9. Considerações Finais
 
 Os jovens aprendizes frequentemente perguntam:
 
