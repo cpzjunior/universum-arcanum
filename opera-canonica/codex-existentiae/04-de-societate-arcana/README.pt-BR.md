@@ -1,4 +1,6 @@
-# 1. Da Natureza dos Arquimagos
+# IV. De Societate Arcana (Sobre a Sociedade Arcana)
+
+## 1. Da Natureza dos Arquimagos
 
 Nenhuma instituição exerceu influência tão profunda sobre a Era dos Magos quanto a Ordem dos Arquimagos.
 
@@ -14,7 +16,7 @@ Assim, cada cidade-estado reconhece em seu Arquimago não apenas um líder polí
 
 Essa autoridade repousa sobre três fundamentos inseparáveis: a Guarda, o Magistério e o Pontificado.
 
-## 1.1. Do Guardião
+### 1.1. Do Guardião
 
 O primeiro dever de um Arquimago é preservar sua cidade e tudo aquilo que nela depende da estabilidade da Harmonia.
 
@@ -30,7 +32,7 @@ A segurança de uma cidade arcana não depende apenas de suas muralhas.
 
 Depende daquele capaz de compreender aquilo que existe além delas.
 
-## 1.2. Do Mestre
+### 1.2. Do Mestre
 
 Nenhum conhecimento arcano pertence verdadeiramente a um único indivíduo.
 
@@ -50,7 +52,7 @@ Preservar uma tradição não significa impedir sua mudança.
 
 Significa garantir que toda mudança ainda pertença à mesma origem.
 
-## 1.3. Do Pontífice
+### 1.3. Do Pontífice
 
 O terceiro fundamento é também o mais difícil de definir.
 
@@ -74,7 +76,7 @@ Sem essa compreensão, a magia reduz-se a uma ferramenta.
 
 E toda escola que transforma sua arte em mera técnica acaba afastando-se da própria essência que lhe deu origem.
 
-## 1.4. Da Unidade dos Três Fundamentos
+### 1.4. Da Unidade dos Três Fundamentos
 
 Os antigos tratados registram que muitos grandes magos alcançaram excelência em apenas um desses fundamentos.
 
@@ -94,7 +96,7 @@ Separados, produzem especialistas.
 
 Unidos, produzem Arquimagos.
 
-## 1.5. Considerações Finais
+### 1.5. Considerações Finais
 
 Por essa razão, os estudiosos afirmam que a verdadeira medida de um Arquimago jamais foi a quantidade de magia que ele é capaz de conjurar.
 
@@ -104,7 +106,7 @@ Enquanto os reis governavam homens e territórios, os Arquimagos passaram a gove
 
 E há quem sustente que uma tradição preservada com sabedoria pode sobreviver por muito mais tempo do que qualquer reino.
 
-# 8. Das Tradições Arcanas
+## 8. Das Tradições Arcanas
 
 As escolas de magia da Era dos Magos não funcionam apenas como centros de ensino.
 
@@ -126,7 +128,7 @@ Nenhuma delas está necessariamente errada.
 
 A diferença está na maneira como cada tradição compreende a Harmonia.
 
-## 8.1. Das Linhagens Arcanas
+### 8.1. Das Linhagens Arcanas
 
 A maioria dos magos pertence oficialmente a uma única escola.
 
@@ -146,7 +148,7 @@ Assim, Arquimagos e mestres avançados frequentemente estudam temporariamente co
 
 Esse intercâmbio permite evolução sem destruir a identidade das tradições.
 
-## 8.2. Das Cidades Arcanas
+### 8.2. Das Cidades Arcanas
 
 Após a queda do Império de Aurelion, as antigas estruturas políticas foram substituídas por uma rede de cidades-estado independentes.
 
@@ -164,7 +166,7 @@ Uma cidade ligada à guerra pode possuir uma cultura marcada pelo treinamento e 
 
 Não existem duas cidades arcanas completamente iguais.
 
-## 8.3. Da Diplomacia Arcana
+### 8.3. Da Diplomacia Arcana
 
 A independência das cidades-estado trouxe uma consequência inevitável:
 
@@ -182,7 +184,7 @@ Existem tratados seculares entre escolas, pactos de não agressão, acordos de c
 
 Muitos dos maiores diplomatas da história foram magos capazes de compreender não apenas a política dos povos, mas também a filosofia das diferentes tradições arcanas.
 
-## 8.4. Dos Tratados e Contratos
+### 8.4. Dos Tratados e Contratos
 
 Entre os magos, acordos possuem um significado superior ao simples compromisso político.
 
@@ -196,7 +198,7 @@ Assim, os grandes tratados não são escritos apenas por governantes.
 
 São construídos por gerações de estudiosos dedicados a compreender os limites entre linguagem, magia e intenção.
 
-## 8.5. Da Paz dos Arquimagos
+### 8.5. Da Paz dos Arquimagos
 
 A atual estabilidade entre as cidades mágicas não existe porque os Arquimagos confiam uns nos outros.
 
@@ -218,7 +220,7 @@ Pois a Harmonia não existe através de uma única voz.
 
 Ela existe através da convivência entre muitas.
 
-## 8.6. Considerações Finais
+### 8.6. Considerações Finais
 
 As tradições arcanas representam a maior força e a maior fragilidade da Era dos Magos.
 
@@ -234,7 +236,7 @@ Pois em uma era governada pela magia, a maior arte talvez não seja conjurar um 
 
 É convencer aqueles que possuem poder suficiente para destruir o mundo a escolherem não fazê-lo.
 
-# 9. Das Casas Arcanas e Suas Linhagens Mágicas
+## 9. Das Casas Arcanas e Suas Linhagens Mágicas
 
 Na Era dos Magos, o conhecimento arcano raramente pertence apenas aos indivíduos.
 
@@ -250,7 +252,7 @@ Uma Casa Arcana não é definida apenas pelo sangue de seus membros.
 
 É definida pelo conhecimento que escolheu proteger.
 
-## 9.1. Da Memória das Casas
+### 9.1. Da Memória das Casas
 
 As antigas famílias mágicas compreenderam que determinados conhecimentos não poderiam sobreviver apenas através de livros.
 
@@ -276,7 +278,7 @@ Outras preservam mensagens deixadas por antigos mestres.
 
 Algumas parecem quase possuir consciência própria, respondendo apenas àqueles reconhecidos como parte da linhagem.
 
-## 9.2. Das Fortalezas Arcanas
+### 9.2. Das Fortalezas Arcanas
 
 As grandes casas mágicas aprenderam que uma fortaleza não precisa apenas resistir a ataques.
 
@@ -296,7 +298,7 @@ Invadir uma Casa Arcana não significa apenas superar paredes e portões.
 
 Significa enfrentar gerações de conhecimento preparado especificamente para impedir sua passagem.
 
-## 9.3. Das Linhagens e do Legado
+### 9.3. Das Linhagens e do Legado
 
 Cada Casa Arcana possui uma relação particular com seu próprio legado.
 
@@ -312,7 +314,7 @@ Para outras, compartilhar conhecimento significa permitir que ele seja perdido o
 
 Assim, muitas rivalidades entre casas não nasceram do desejo por poder, mas de interpretações diferentes sobre como proteger a própria herança.
 
-## 9.4. Das Relíquias Familiares
+### 9.4. Das Relíquias Familiares
 
 Ao longo das gerações, objetos utilizados continuamente por uma família podem absorver parte da mana daqueles que os possuem.
 
@@ -334,7 +336,7 @@ Contém as dúvidas, descobertas e experiências daqueles que o escreveram.
 
 Por isso, destruir uma relíquia familiar é considerado uma das maiores ofensas que podem ser cometidas contra uma Casa Arcana.
 
-## 9.5. Da Política das Casas
+### 9.5. Da Política das Casas
 
 Embora os Arquimagos sejam as maiores autoridades das cidades mágicas, grande parte da influência real da Era dos Magos pertence às antigas famílias arcanas.
 
@@ -352,7 +354,7 @@ Elas não governam apenas territórios.
 
 Governam memórias.
 
-## 9.6. Dos Familiares Arcanos
+### 9.6. Dos Familiares Arcanos
 
 Os familiares são seres vinculados à essência de um mago ou de uma linhagem através de contratos mágicos ancestrais.
 
@@ -370,7 +372,7 @@ Um estudioso da morte pode possuir uma criatura ligada à memória e à preserva
 
 Um mestre da natureza pode estabelecer vínculo com seres que representam equilíbrio e crescimento.
 
-## 9.7. Do Vínculo Entre Mago e Familiar
+### 9.7. Do Vínculo Entre Mago e Familiar
 
 O vínculo entre ambos não é uma relação de domínio absoluto.
 
@@ -382,7 +384,7 @@ Ele torna-se poderoso porque participa da mesma Harmonia.
 
 Por essa razão, a perda de um familiar é considerada uma das maiores tragédias para um arcano. Não representa apenas a perda de uma ferramenta, mas a ruptura de uma parte de sua própria história.
 
-## 9.8. Dos Familiares das Grandes Casas
+### 9.8. Dos Familiares das Grandes Casas
 
 As famílias arcanas mais antigas preservam linhagens de familiares conhecidos tanto quanto preservam seus grimórios e relíquias.
 
@@ -390,7 +392,7 @@ Algumas criaturas acompanham uma casa há centenas de anos, carregando memórias
 
 Em certas tradições, o familiar de uma família é considerado quase um membro da linhagem, participando de decisões importantes e guardando segredos que não podem ser confiados sequer aos herdeiros humanos.
 
-## 9.9. Considerações Finais
+### 9.9. Considerações Finais
 
 As escolas preservam a filosofia da magia.
 
@@ -414,7 +416,7 @@ A maior magia não é aquela que cria algo poderoso em um instante.
 
 É aquela capaz de sobreviver ao tempo.
 
-# 12. Dos Contratos e Juramentos Arcanos
+## 12. Dos Contratos e Juramentos Arcanos
 
 Entre todos os princípios estudados pelas academias arcanas, poucos demonstram tão claramente a natureza da magia quanto os contratos e juramentos.
 
@@ -430,7 +432,7 @@ Por essa razão, os antigos mestres afirmavam que um contrato mágico não é ap
 
 É uma ligação entre essências.
 
-## 12.1. Da Natureza dos Contratos Arcanos
+### 12.1. Da Natureza dos Contratos Arcanos
 
 Todo contrato mágico possui três elementos fundamentais:
 
@@ -460,7 +462,7 @@ Pois a magia não interpreta frases.
 
 Ela interpreta intenções.
 
-## 12.2. Dos Juramentos Entre Mortais
+### 12.2. Dos Juramentos Entre Mortais
 
 Os primeiros contratos arcanos surgiram entre indivíduos e famílias de magos.
 
@@ -476,7 +478,7 @@ Esses juramentos criaram uma rede de obrigações que permitiu às cidades indep
 
 Muitos estudiosos consideram que a estabilidade política da Era dos Magos não nasceu da ausência de conflitos, mas da existência de compromissos suficientemente poderosos para impedir que qualquer disputa se transformasse em destruição.
 
-## 12.3. Dos Contratos com os Planos Superiores
+### 12.3. Dos Contratos com os Planos Superiores
 
 Desde a Era dos Semideuses existem relatos de mortais que buscaram acordos com entidades dos planos superiores.
 
@@ -504,7 +506,7 @@ O perigo de um contrato superior raramente está naquilo que ele concede.
 
 Está naquilo que ele transforma.
 
-## 12.4. Dos Contratos com os Planos Inferiores
+### 12.4. Dos Contratos com os Planos Inferiores
 
 Se os contratos com entidades superiores exigem cautela, aqueles firmados com seres dos planos inferiores são considerados entre os atos mais perigosos da prática arcana.
 
@@ -532,7 +534,7 @@ Assim nasceu uma das máximas mais repetidas nas academias:
 
 Nunca aceite um presente de uma entidade que sabe exatamente quanto ele vale.
 
-## 12.5. Da Linguagem dos Contratos
+### 12.5. Da Linguagem dos Contratos
 
 Por essa razão, a diplomacia arcana tornou-se uma das áreas mais respeitadas entre os magos.
 
@@ -552,7 +554,7 @@ Todos esses elementos podem transformar um contrato aparentemente seguro em uma 
 
 As maiores escolas arcanas mantêm especialistas dedicados exclusivamente ao estudo da linguagem mágica, capazes de analisar acordos realizados entre mortais, cidades e entidades de outros planos.
 
-## 12.6. Da Quebra dos Juramentos
+### 12.6. Da Quebra dos Juramentos
 
 Romper um juramento arcano não é simplesmente deixar de cumprir uma promessa.
 
@@ -570,7 +572,7 @@ Por essa razão, os Arquimagos ensinam que nenhum juramento deve ser realizado e
 
 Uma promessa feita em um instante pode acompanhar uma existência inteira.
 
-## 12.7. Da Responsabilidade do Poder
+### 12.7. Da Responsabilidade do Poder
 
 Os contratos arcanos revelam um dos maiores princípios da magia:
 
@@ -592,7 +594,7 @@ Existem desejos que podem ser realizados.
 
 E existem preços que nenhum ser consciente deveria aceitar pagar.
 
-# 14. Das Sociedades Arcanas
+## 14. Das Sociedades Arcanas
 
 Desde os primeiros séculos da Era dos Magos, os estudiosos compreenderam que nenhuma escola individual poderia conter todo o conhecimento da Harmonia.
 
@@ -614,7 +616,7 @@ Elas não perguntam apenas como um feitiço funciona.
 
 Perguntam por que a realidade permite que ele exista.
 
-## 14.1. Das Grandes Sociedades de Estudo
+### 14.1. Das Grandes Sociedades de Estudo
 
 As maiores sociedades arcanas possuem membros de diversas escolas e tradições.
 
@@ -632,7 +634,7 @@ Pois mesmo o maior dos mestres reconhece uma verdade:
 
 Nenhum indivíduo é maior que aquilo que busca compreender.
 
-## 14.2. Das Virtudes Arcanas
+### 14.2. Das Virtudes Arcanas
 
 Entre os conceitos mais estudados pelas sociedades arcanas estão as chamadas Virtudes Arcanas.
 
@@ -680,7 +682,7 @@ Responsabilidade
 
 A compreensão de que todo poder exercido sobre a realidade gera consequências.
 
-## 14.3. Das Sociedades Filosóficas
+### 14.3. Das Sociedades Filosóficas
 
 Algumas sociedades não estudam uma escola específica, mas conceitos abstratos da magia.
 
@@ -695,7 +697,7 @@ dos planos existenciais.
 
 Muitos dos maiores avanços mágicos da história não surgiram de uma escola tradicional, mas dessas discussões entre estudiosos de diferentes caminhos.
 
-## 14.4. Das Sociedades Proibidas
+### 14.4. Das Sociedades Proibidas
 
 Nem todo estudo arcano é aceito pelas cidades e academias.
 
@@ -707,7 +709,7 @@ Ele apenas se torna oculto.
 
 As sociedades proibidas são perseguidas não apenas por seus objetivos, mas pelos métodos utilizados para alcançá-los.
 
-## 14.5. Da Sociedade Necromântica
+### 14.5. Da Sociedade Necromântica
 
 Entre todas as organizações banidas, nenhuma desperta tanto temor quanto a Sociedade dos Necromantes.
 
@@ -733,7 +735,7 @@ Para as academias tradicionais, a morte não é uma falha da criação.
 
 É parte dela.
 
-## 14.6. Das Ordens Ocultas
+### 14.6. Das Ordens Ocultas
 
 Algumas sociedades proibidas não foram banidas por serem necessariamente malignas, mas por desafiarem instituições estabelecidas.
 
@@ -748,7 +750,7 @@ Muitas vezes, décadas ou séculos depois, uma prática proibida é reavaliada e
 
 A história da magia é marcada por uma constante tensão entre descoberta e preservação.
 
-## 14.7. O Paradoxo do Conhecimento Arcano
+### 14.7. O Paradoxo do Conhecimento Arcano
 
 Os estudiosos reconhecem um paradoxo:
 
