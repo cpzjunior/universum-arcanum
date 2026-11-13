@@ -28,14 +28,14 @@ History is organized into four eras: the Primordial Era, marked by the events of
 
 Knowledge about Universum Arcanum is subject to the evidence and interpretations available in each era. Records may contain gaps, traditions may diverge, and theories may be revised. The reality of the universe is not the same as what its inhabitants know or believe they know. This distinction allows the collection itself to reveal different perspectives on the same events and phenomena, without requiring a single or definitive narrative.
 
-## **Canonical Works**
+## Opera Canonica - Canonical Works
 
 Bring together the documents that establish the fundamental references of Universum Arcanum. They encompass its cosmology, principles, history, geography, entities, and other structural elements, serving as the foundation for the continuity and consistency of the setting.
 
-- **I. De Natura Existentiae - Treatise on the Nature of Existence**: Logos and the nature of Existence; essence and manifestation; cosmology and structure of the Dominium; classification of the Dominium; Primordial Archetypes and their interpretations; Archeism and Unitheism; nature, origin, and classification of immortal entities; fundamental principles that sustain Arcania. (work in progress)
-- **II. De Origine Creationis - Treatise on the Origin of Creation**: origin of Creation; events of the Primordial Era; Great Schism; main interpretations regarding the origin of all things; foundations of the different conceptions of Creation and their relationship with Existence. (work in progress)
-- **III. Ars Magica - Treatise on the Art of Magic**: nature and origin of magic; Harmony, Transformation, Causality, Responsible Freedom, and Inner Flame; magical aptitude and its manifestations; theoretical foundations and arcane laws; magical disciplines and schools; methods of learning and knowledge transmission; techniques, spells, and incantations; rituals and ceremonies; magical instruments and artifacts; costs, risks, limitations, and consequences of the use of magic; arcane affinities and incompatibilities; influence of the environment on magical practice; arcane residues and alterations caused by magic; Ritualized Duels and their contracts; traditions, methods, and disagreements among practitioners. (work in progress)
-- **IV. De Societate Arcana - Treatise on Arcane Society**: origin and development of arcane society; political, social, and institutional organization; Arcane Schools and Families; magical orders, lineages, and traditions; structures of power and authority; hierarchies, positions, and functions; institutions for education and knowledge transmission; relations between arcane organizations; responsibilities, rights, and duties of practitioners; customs, codes of conduct, and traditions of the magical community. (work in progress)
+- I. De Natura Existentiae - Treatise on the Nature of Existence: Logos and the nature of Existence; essence and manifestation; cosmology and structure of the Dominium; classification of the Dominium; Primordial Archetypes and their interpretations; Archeism and Unitheism; nature, origin, and classification of immortal entities; fundamental principles that sustain Arcania. (work in progress)
+- II. De Origine Creationis - Treatise on the Origin of Creation: origin of Creation; events of the Primordial Era; Great Schism; main interpretations regarding the origin of all things; foundations of the different conceptions of Creation and their relationship with Existence. (work in progress)
+- III. Ars Magica - Treatise on the Art of Magic: nature and origin of magic; Harmony, Transformation, Causality, Responsible Freedom, and Inner Flame; magical aptitude and its manifestations; theoretical foundations and arcane laws; magical disciplines and schools; methods of learning and knowledge transmission; techniques, spells, and incantations; rituals and ceremonies; magical instruments and artifacts; costs, risks, limitations, and consequences of the use of magic; arcane affinities and incompatibilities; influence of the environment on magical practice; arcane residues and alterations caused by magic; Ritualized Duels and their contracts; traditions, methods, and disagreements among practitioners. (work in progress)
+- IV. De Societate Arcana - Treatise on Arcane Society: origin and development of arcane society; political, social, and institutional organization; Arcane Schools and Families; magical orders, lineages, and traditions; structures of power and authority; hierarchies, positions, and functions; institutions for education and knowledge transmission; relations between arcane organizations; responsibilities, rights, and duties of practitioners; customs, codes of conduct, and traditions of the magical community. (work in progress)
 
 ## Supplementary Works
 
@@ -43,33 +43,33 @@ These bring together documents that explore specific aspects of the universe in 
 
 ### Manuals and Treatises
 
-- **I. Ars Scribendi** - The Art of Writing: calligraphy, textual composition, grammar, rhetoric, literary styles, document structure, formal correspondence, manuscripts, academic records, and conventions of scholarly arcane writing. (work in progress)
+- I. Ars Scribendi - The Art of Writing: calligraphy, textual composition, grammar, rhetoric, literary styles, document structure, formal correspondence, manuscripts, academic records, and conventions of scholarly arcane writing. (work in progress)
   
-- **II. Manuale Artificiorum** - Manual of Crafts: techniques, tools, materials, and practices of different crafts, including blacksmithing, carpentry, construction, handicrafts, and other professional activities. (work in progress)
+- II. Manuale Artificiorum - Manual of Crafts: techniques, tools, materials, and practices of different crafts, including blacksmithing, carpentry, construction, handicrafts, and other professional activities. (work in progress)
   
-- **III. Manuale Adventoris** - Adventurer's Manual: survival, exploration, navigation, tracking, expedition preparation, first aid, and practical experiences of travelers and adventurers. (work in progress)
+- III. Manuale Adventoris - Adventurer's Manual: survival, exploration, navigation, tracking, expedition preparation, first aid, and practical experiences of travelers and adventurers. (work in progress)
   
-- **IV. De Arte Alchimiae** - On the Art of Alchemy: reagents, preparations, potions, procedures, instruments, known formulas, and alchemical experiments. (work in progress)
+- IV. De Arte Alchimiae - On the Art of Alchemy: reagents, preparations, potions, procedures, instruments, known formulas, and alchemical experiments. (work in progress)
   
 
 ### Compendiums and Catalogs
 
-- **V. Bestiarium Arcaniae** - Bestiary of Arcania: descriptions, habits, habitats, behaviors, characteristics, and accounts of encounters with creatures known to the author or their sources. (work in progress)
+- V. Bestiarium Arcaniae - Bestiary of Arcania: descriptions, habits, habitats, behaviors, characteristics, and accounts of encounters with creatures known to the author or their sources. (work in progress)
   
-- **VI. Herbarium Arcaniae** - Herbarium of Arcania: identification, characteristics, habitats, and known uses of plants, herbs, and fungi, including medicinal, alchemical, and arcane applications. (work in progress)
+- VI. Herbarium Arcaniae - Herbarium of Arcania: identification, characteristics, habitats, and known uses of plants, herbs, and fungi, including medicinal, alchemical, and arcane applications. (work in progress)
   
-- **VII. Codex Artificiorum** - Codex of Artifacts: records and descriptions of objects, instruments, weapons, relics, and mechanisms of historical, artisanal, or magical interest. (work in progress)
+- VII. Codex Artificiorum - Codex of Artifacts: records and descriptions of objects, instruments, weapons, relics, and mechanisms of historical, artisanal, or magical interest. (work in progress)
   
 
 ### Narrative Works
 
-- **VIII. Fabulae Arcaniae** - Tales of Arcania: collections of fictional stories or stories inspired by events, characters, and everyday experiences in Arcania. (work in progress)
+- VIII. Fabulae Arcaniae - Tales of Arcania: collections of fictional stories or stories inspired by events, characters, and everyday experiences in Arcania. (work in progress)
   
-- **IX. Legendae Arcaniae** - Legends of Arcania: traditional narratives, regional legends, folk heroes, legendary creatures, and stories passed down through generations. (work in progress)
+- IX. Legendae Arcaniae - Legends of Arcania: traditional narratives, regional legends, folk heroes, legendary creatures, and stories passed down through generations. (work in progress)
   
-- **X. Chronicae Minoris** - Minor Chronicles: accounts of local events, historical episodes, disputes, discoveries, journeys, and personal experiences recorded by their authors. (work in progress)
+- X. Chronicae Minoris - Minor Chronicles: accounts of local events, historical episodes, disputes, discoveries, journeys, and personal experiences recorded by their authors. (work in progress)
   
-- **XI. Itineraria Arcaniae** - Journeys through Arcania: travel diaries, exploration accounts, and descriptions of places, peoples, customs, and experiences encountered by travelers. (work in progress)
+- XI. Itineraria Arcaniae - Journeys through Arcania: travel diaries, exploration accounts, and descriptions of places, peoples, customs, and experiences encountered by travelers. (work in progress)
 
 ## Languages
 
