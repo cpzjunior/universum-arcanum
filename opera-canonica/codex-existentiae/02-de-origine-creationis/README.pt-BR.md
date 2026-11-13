@@ -1,4 +1,4 @@
-# II. De Origine Creationis - Tratado sobre a Origem da Criação
+# II. De Origine Creationis (Sobre a Origem da Criação)
 
 ## Introdução
 
